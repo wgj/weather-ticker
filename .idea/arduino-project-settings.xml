@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Arduino Project Settings">
+    <option name="baudRate" value="115200" />
+    <option name="buildConfigurationNames" value="^PlatformIO Upload.*$" />
+    <option name="buildConfigurationPatternType" value="0" />
+    <option name="port" value="COM3" />
+    <option name="regexSampleText" value="!Upload|!test-upload|!-upload|PlatformIO Upload | esp32dev" />
+  </component>
+</project>
